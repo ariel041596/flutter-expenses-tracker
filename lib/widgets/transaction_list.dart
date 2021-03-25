@@ -26,7 +26,7 @@ class TransactionList extends StatelessWidget {
                   ),
                 ),
                 SizedBox(
-                  height: 20,
+                  height: 25,
                 ),
                 Container(
                   height: constraints.maxHeight * 0.6,
